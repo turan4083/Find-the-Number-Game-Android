@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">numberFinder</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="buton1">buton1</string>
+    <string name="hiddenText">This text is hidden</string>
+    <string name="confirm">Confirm</string>
+    <string name="del">Delete</string>
+    <string name="restart">Restart</string>
+    <string name="start">Start</string>
+</resources>
